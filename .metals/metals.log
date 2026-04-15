@@ -1,0 +1,69 @@
+2026.04.15 23:58:50 INFO  Started: Metals version 1.6.7 in folders 'C:\dev\s3sample' for client Visual Studio Code 1.116.0.
+2026.04.15 23:58:50 INFO  Memory monitor started
+2026.04.15 23:58:50 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.15 23:58:50 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+4月 15, 2026 11:58:51 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 6
+4月 15, 2026 11:58:51 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 2
+4月 15, 2026 11:58:51 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1
+2026.04.15 23:58:51 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.15 23:58:54 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.15 23:58:54 WARN  no build target for: C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java
+2026.04.15 23:58:54 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.15 23:58:54 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.15 23:58:54 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.15 23:58:54 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.15 23:58:56 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.15 23:58:59 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+4月 15, 2026 11:59:17 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+2026.04.15 23:59:35 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.15 23:59:42 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.15 23:59:42 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.15 23:59:42 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.15 23:59:42 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.16 00:00:10 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.16 00:00:10 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.16 00:00:10 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.16 00:00:10 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.16 00:00:10 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+4月 16, 2026 12:00:11 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 34
+4月 16, 2026 12:00:11 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 35
+2026.04.16 00:00:12 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.16 00:00:12 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.16 00:02:02 INFO  Started: Metals version 1.6.7 in folders 'C:\dev\s3sample' for client Visual Studio Code 1.116.0.
+2026.04.16 00:02:02 INFO  Memory monitor started
+2026.04.16 00:02:02 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.16 00:02:03 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+4月 16, 2026 12:02:04 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 2
+2026.04.16 00:02:03 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.16 00:02:05 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.16 00:02:34 WARN  no build target for: C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java
+2026.04.16 00:02:34 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.16 00:02:34 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.16 00:02:34 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.16 00:02:36 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.16 00:02:44 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.16 00:03:19 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.16 00:03:39 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3Controller.java. Using fallback presentation compiler.
+4月 16, 2026 12:06:25 午前 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+2026.04.16 00:06:38 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3Controller.java. Using fallback presentation compiler.
+4月 16, 2026 12:07:04 午前 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+2026.04.16 00:10:27 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3Config.java. Using fallback presentation compiler.
+2026.04.16 00:10:31 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3Config.java. Using fallback presentation compiler.
+2026.04.16 00:10:36 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3Config.java. Using fallback presentation compiler.
+2026.04.16 00:10:58 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3sampleApplication.java. Using fallback presentation compiler.
+2026.04.16 00:13:23 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3Config.java. Using fallback presentation compiler.
+2026.04.16 00:17:40 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3Controller.java. Using fallback presentation compiler.
+2026.04.16 00:17:45 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3Controller.java. Using fallback presentation compiler.
+2026.04.16 00:20:32 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3Controller.java. Using fallback presentation compiler.
+4月 16, 2026 12:24:02 午前 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+2026.04.16 00:25:55 INFO  no build target found for C:\dev\s3sample\src\main\java\com\example\s3sample\S3Controller.java. Using fallback presentation compiler.
